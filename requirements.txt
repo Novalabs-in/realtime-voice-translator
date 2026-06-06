@@ -1,3 +1,4 @@
 gTTS>=2.3.0
 SpeechRecognition>=3.10.0
 openai>=1.0.0
+pytest>=7.0.0
